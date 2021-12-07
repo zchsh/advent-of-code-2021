@@ -1,0 +1,5 @@
+# Dependency directories
+node_modules/
+
+# Random files
+.DS_Store
